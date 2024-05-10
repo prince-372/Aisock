@@ -90,7 +90,7 @@ const Topai = () => {
           <p className=" pt-2 font-Opensans font-light sm:text-5xl text-3xl leading-[60px] text-white text-center">
             Top Seven Ai Sock
           </p>
-          <div className="grid lg:grid-cols-2 grid-cols-1 md:pt-24 pt-2 justify-items-center ">
+          <div className="grid lg:grid-cols-2 grid-cols-1 md:pt-24 pt-2 justify-items-center max-w-[1140px] mx-auto ">
             {cardcomponent}
             <div className=" flex justify-center"><img className=" lg:pt-14 pt-5" src={rocketImg} alt="rocketImg" /></div>
             </div>
