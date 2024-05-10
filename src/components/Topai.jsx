@@ -59,7 +59,7 @@ const myarray = [
 
 const Topai = () => {
   const cardcomponent = myarray.map((myarray) => (
-    <div
+    <div data-aos="fade-down" 
       key={myarray.heading}
       className={` ${myarray.margin} lg:max-w-[542px] sm:h-[637px] rounded-[25px] p-[20px] bg-blackgradiunt relative overflow-hidden ,`}
     >
@@ -83,7 +83,7 @@ const Topai = () => {
         <img className=" absolute right-0 top-[36%]" src={secElipes} alt="firstElipes" />
         <div className=" container mx-auto px-3">
           <div className=" flex justify-center">
-            <button className=" tracking-[10px] uppercase text-white font-Opensans text-base font-bold border border-lightblue py-4 px-8 rounded-[75px] gap-3">
+            <button className=" duration-300 hover:bg-commangradiunt tracking-[10px] uppercase text-white font-Opensans text-base font-bold border border-lightblue py-4 px-8 rounded-[75px] gap-3">
               TOP AI
             </button>
           </div>
@@ -92,7 +92,7 @@ const Topai = () => {
           </p>
           <div className="grid lg:grid-cols-2 grid-cols-1 md:pt-24 pt-2 justify-items-center max-w-[1140px] mx-auto ">
             {cardcomponent}
-            <div className=" flex justify-center"><img className=" lg:pt-14 pt-5" src={rocketImg} alt="rocketImg" /></div>
+            <div data-aos="fade-down" className=" flex justify-center"><img className=" lg:pt-14 pt-5" src={rocketImg} alt="rocketImg" /></div>
             </div>
           </div>
       </section>

@@ -8,11 +8,11 @@ const Statistics = () => {
         <img className=' absolute left-0 top-[34%] -z-10' src={bollElipes} alt="bollElipes" />
         <div className=" w-[146px] h-[146px] bg-commangradiunt absolute left-[-5%] top-[28%] elipesFirst"></div>
         <div className=' container px-3 mx-auto'>
-       <div className=' flex justify-center'>
-        <button className=' font-Opensans font-bold text-base text-white rounded-[75px] bg-blackgradiunt py-4 px-8 border border-lightblue tracking-[10px]'>STATISTICS</button>
+       <div data-aos="zoom-in" className=' flex justify-center'>
+        <button className=' font-Opensans font-bold text-base text-white rounded-[75px] bg-blackgradiunt py-4 px-8 border border-lightblue tracking-[10px] duration-300 hover:bg-commangradiunt'>STATISTICS</button>
        </div>
-       <p className=' font-Opensans font-light text-white sm:text-5xl text-3xl sm:leading-[60px] leading-[31px] text-center pt-2'>Statistics For Today</p>
-       <div className=' grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 max-w-[1320px] mx-auto sm:pt-[58px] pt-2'>
+       <p data-aos="zoom-in" className=' font-Opensans font-light text-white sm:text-5xl text-3xl sm:leading-[60px] leading-[31px] text-center pt-2'>Statistics For Today</p>
+       <div data-aos="fade-down" className=' grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 max-w-[1320px] mx-auto sm:pt-[58px] pt-2'>
          <div className=' lg:max-w-[363px] lg:h-[293px] border border-skyblue py-2 px-2 rounded-[18px] bg-blackgradiunt mt-5'>
          <div className=' lg:max-w-[346px] lg:h-[218px] border border-skyblue  flex justify-center items-center rounded-[18px] relative overflow-hidden'>
            <p className=' font-Roboto font-bold sm:text-[128px] text-[76px] sm:leading-[150px] leading-[119px] stroke'>01</p>
