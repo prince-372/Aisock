@@ -10,3 +10,7 @@
 .elipesFirst{
     filter: blur(74px);
 }
+.stroke {
+    color: transparent;
+    -webkit-text-stroke: 1.65px #6E5DF6;
+  }

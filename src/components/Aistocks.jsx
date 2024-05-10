@@ -15,7 +15,7 @@ const Aistocks = () => {
         <img className=" absolute left-0 top-[31%]" src={elipes2} alt="elipes2" />
         <div className=" container px-3 mx-auto">
           <div className=" flex justify-center ">
-            <button className=" text-white font-Opensans font-bold text-base rounded-[75px] border border-white py-4 px-8">
+            <button className=" tracking-[10px] text-white font-Opensans font-bold text-base rounded-[75px] border border-white py-4 px-8">
               HOW IT WORKS
             </button>
           </div>

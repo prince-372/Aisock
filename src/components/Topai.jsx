@@ -83,7 +83,7 @@ const Topai = () => {
         <img className=" absolute right-0 top-[36%]" src={secElipes} alt="firstElipes" />
         <div className=" container mx-auto px-3">
           <div className=" flex justify-center">
-            <button className=" uppercase text-white font-Opensans text-base font-bold border border-lightblue py-4 px-8 rounded-[75px] gap-3">
+            <button className=" tracking-[10px] uppercase text-white font-Opensans text-base font-bold border border-lightblue py-4 px-8 rounded-[75px] gap-3">
               TOP AI
             </button>
           </div>
