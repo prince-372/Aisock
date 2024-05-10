@@ -15,7 +15,7 @@ const Aistocks = () => {
         <img className=" absolute left-0 top-[31%]" src={elipes2} alt="elipes2" />
         <div className=" container px-3 mx-auto">
           <div data-aos="zoom-in" className=" flex justify-center ">
-            <button className=" tracking-[10px] text-white duration-300 hover:duration-300 hover:bg-commangradiunt hover:border hover:border-transparent font-Opensans font-bold text-base rounded-[75px] border border-white py-4 px-8">
+            <button className=" tracking-[10px] text-white duration-300 hover:duration-300 hover:bg-commangradiunt hover:border hover:border-transparent font-Opensans font-bold sm:text-base text-[14px] rounded-[75px] border border-white py-4 px-8">
               HOW IT WORKS
             </button>
           </div>
