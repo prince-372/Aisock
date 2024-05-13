@@ -1,5 +1,5 @@
 import React from 'react'
-import bollElipes from '../assets/image/bollElipes.png'
+import bollElipes from '../assets/image/bollElipes.webp'
 
 const Statistics = () => {
   return (

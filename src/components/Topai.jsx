@@ -1,14 +1,14 @@
 import React from "react";
-import nvidia from '../assets/image/nvidiaImg.png'
-import windowImg from '../assets/image/windowImg.png'
-import amozonImg from '../assets/image/amazonImg.png'
-import palantirImg from '../assets/image/palantirImg.png'
-import crowdImg from '../assets/image/crowdImg.png'
-import uipathImag from '../assets/image/uipathImag.png'
-import aristaImg from '../assets/image/aristaImg.png'
-import rocketImg from '../assets/image/rockatImg.png'
-import firstElipes from '../assets/image/secFirstelipes1.png';
-import secElipes from '../assets/image/secFirstelipes2.png';
+import nvidia from '../assets/image/nvidiaImg.webp'
+import windowImg from '../assets/image/windowImg.webp'
+import amozonImg from '../assets/image/amazonImg.webp'
+import palantirImg from '../assets/image/palantirImg.webp'
+import crowdImg from '../assets/image/crowdImg.webp'
+import uipathImag from '../assets/image/uipathImag.webp'
+import aristaImg from '../assets/image/aristaImg.webp'
+import rocketImg from '../assets/image/rockatImg.webp'
+import firstElipes from '../assets/image/secFirstelipes1.webp';
+import secElipes from '../assets/image/secFirstelipes2.webp';
 
 const myarray = [
   

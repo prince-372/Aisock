@@ -1,5 +1,5 @@
 import React from 'react'
-import Backbtn  from '../assets/image/rockatImg.png';
+import Backbtn  from '../assets/image/rockatImg.webp';
 
 
 

@@ -1,10 +1,10 @@
 import React from "react";
-import step1 from '../assets/image/stap1Img.png'
-import step2 from '../assets/image/stap2Img.png'
-import step3 from '../assets/image/stap3img.png'
-import elipes1 from '../assets/image/aiElipes.png'
-import elipes2 from '../assets/image/aiSecondimg.png'
-import blurElipes from '../assets/image/blurElipes.png'
+import step1 from '../assets/image/stap1Img.webp'
+import step2 from '../assets/image/stap2Img.webp'
+import step3 from '../assets/image/stap3img.webp'
+import elipes1 from '../assets/image/aiElipes.webp'
+import elipes2 from '../assets/image/aiSecondimg.webp'
+import blurElipes from '../assets/image/blurElipes.webp'
 
 const Aistocks = () => { 
   return (  
@@ -16,11 +16,11 @@ const Aistocks = () => {
         <div className=" container px-3 mx-auto">
           <div data-aos="zoom-in" className=" flex justify-center ">
             <button className=" tracking-[10px] text-white duration-300 hover:duration-300 hover:bg-commangradiunt hover:border hover:border-transparent font-Opensans font-bold sm:text-base text-[14px] rounded-[75px] border border-white py-4 px-8">
-              HOW IT WORKS
+              HOW IT WORKS 
             </button>
           </div>
           <p data-aos="zoom-in" className=" font-Opensans font-light sm:text-5xl text-3xl sm:leading-[60px] leading-[31px] text-white text-center pt-2">
-            How AI Stocks Workes
+                v      How AI Stocks Workes
           </p>
           <p data-aos="zoom-in" className=" font-Opensans font-normal text-base text-lightgray1 max-w-[891px] text-center mx-auto pt-6">
             If you've used ChatGPT, the OpenAl chatbot that has wowed users by
@@ -29,9 +29,9 @@ const Aistocks = () => {
             as big tech companies are racing to develop the leading Al chatbot.
           </p>
           <p data-aos="zoom-in" className=" font-Opensans font-normal text-base text-lightgray1 max-w-[891px] text-center mx-auto pt-7">
-            If you want to get portfolio exposure to Al companies but don't
+            If you want to get portfolio exposure to Al companies but don't 
             want to identify individual Al stocks, you can invest in an
-            Al-focused exchange-traded fund (ETF). AI ETFs provide exposure to a
+            Al-focused exchange-tr   aded fund (ETF). AI ETFs provide exposure to a
             broad range of the best Al companies, eliminating the need to
             research and choose individual stocks on your own.
           </p>
@@ -53,7 +53,7 @@ const Aistocks = () => {
             </div>
           </div>
         </div>
-      </section>
+      </section>  
     </>
   );
 };
